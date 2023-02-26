@@ -2,7 +2,7 @@
   "name": "practical-redux-26_02_2023",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://practical-redux-26_02_2023/",
+  "homepage": "https://dimakirdanov.github.io/practical-redux-26_02_2023/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
